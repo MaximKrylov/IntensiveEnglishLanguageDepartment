@@ -1,0 +1,91 @@
+cuisine                 национальная кухня
+to order a takeaway     еда на вынос
+heat up                 подогреть
+eat out                 есть вне дома (ресторан) (dine out)
+eat in                  есть дома (dine in)
+junk food               вредная еда
+wholemeal bread         полезный хлеб (гадость)
+French fries            картофель фри
+salad                   овощной салат
+stew                    тушеные блюда
+cut down on smth        сократить потребление чего-либо
+proteins                белки
+carbohydrates           углеводы
+fats                    жиры
+to keep to a diet       быть на диете
+to be on a diet         быть на диете
+biscuits                сухое печенье (крекер)
+noodles                 лапша
+insects                 насекомые
+grasshopper             кузнечик
+olive oil               оливковое масло
+balsamic vinegar        бальзамический уксус
+poultry                 мясо птицы
+starter                 не основная еда
+main course             основная еда
+desert                  десерт
+lamb                    ягнятина, баранина
+beef                    говядина
+pork                    свинина
+veal                    телятина
+chef                    шев повар
+cooker                  плита
+rooster                 петух
+roast                   жарить
+casserole               глубокая чугунная чаша (казан)
+to pour                 наливать
+gravy                   подливка
+instant coffee          растворимый кофе
+pastry                  выпечка
+tart                    пирог с начинкой наружу
+pie                     пирог с начинкой внутрь
+sponge                  кекс
+custard                 взбитые сливки
+sauce                   соус
+flavored with vanilla   с ароматом ванили
+powder                  порошок (пудра)
+ready-made              готовый  
+sweet cherri            чершеня
+tangerine               мандарин
+wild strawberry         земляника
+slice                   тонкий кусочек
+peace                   толстый кусочек
+bitter                  горький
+bland                   безвкусный
+hot                     острый
+mild                    мягкий
+peppery                 перченый
+pickled                 маринованный
+sharp                   острый
+sour                    кислый
+spicy                   приправленный
+strong                  острый
+creamy                  сливочный
+jellied                 желевидный
+mashed                  толчненый
+tender                  мягкий
+tough                   жесткий
+lip-smaking             пальчики оближешь
+mouth-watering          слюнки текут
+palatable               вкусный
+yummy                   вкусный
+inedible                несъедобный
+stodgy                  тяжелый
+curdled                 свернувшееся
+mouldy                  плесневелый
+off                     истекший срок годности
+rotten                  гнилой
+stale                   черствый
+prawn                   креветки
+oven                    духовка
+raw                     сырой
+rare                    чуть чуть приготовленный (сырой)
+medium-rare             средней прожарки (с кровью)
+
+Meals
+breakfast               завтрак
+brunch                  второй завтра 
+lunch                   обед
+afternoon tea           полдник
+dinner                  ужин или званый обед
+supper                  второй ужин

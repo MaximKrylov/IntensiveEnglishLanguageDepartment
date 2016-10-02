@@ -1,0 +1,14 @@
+1.  Human body
+calf            икра ноги
+ankle           лодыжка
+shin/shank      голень
+sole            подошва
+
+4.  The Eye
+eyelid          веко
+eyelashes       ресницы
+
+5.  Internal Organs
+gullet          пищевод
+intestine       кишечник
+bladdar         мочевой пузырь

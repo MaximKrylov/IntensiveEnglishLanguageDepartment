@@ -1,0 +1,167 @@
+Crimes and Criminals
+
+blackmail - blackmailer - to blackmail
+шантаж, вымогательство - ... - ...
+
+bribery - ___ - to bribe
+взяточничество - ... - ...
+
+burglary - burglar - to break in / burgle
+кража со взломом - ... - ...
+
+drug dealing - drug dealer - to sell drugs
+продажа наркотиков - ... - ...
+
+fraud - ___ - to commit (совершать) fraud
+мошенничество - ... - ...
+
+hijacking - hijacker - to hijack
+захват заложников (в самолете) - ... - ...
+
+kidnapping - kidnapper - to kidnap
+похищение детей - ... - ...
+
+mugging - mugger - to mug
+ограбление прохожих на улице - ... - ...
+
+murder - murderer - to murder
+убийство - ... - ...
+
+rape - rapist - to rape
+изнасилование - ... - ...
+
+robbery - robber - rob
+кража (банков) - ... - ...
+
+smuggling - smuggler - to smuggle
+незаконный ввоз или вывоз - ... - ...
+
+terrorism - terrorist - to set off bombs, etc.
+терроризм - ... - ...
+
+theft - thief - steal
+кража - ... - ...
+
+vandalism - vandal - to vandalize
+вандализм - ... - ...
+
+offender == criminal;
+homecide - убийство (suicide);
+money laundering - отмывание денег;
+loot - мородерствовать;
+riot - уличные беспорядки;
+arson - поджог;
+manslaughter - убийство по неосторожности;
+assassination - заказное убийство;
+to rich the verdict - вынести приговор;
+to find guilty - признать вину;
+imprisonment - тюремное заключение;
+community service
+a 600 rub fine
+six month in prison
+a life sentence
+
+UK
+solicitor - юрист, который помогает составить документы;
+barrister - тот, кто представляет вас в суде;
+US
+attorney - прокурор
+
++ arrested - аррестовать;
++ caught - ловить; 
++ charged - обвинять;
++ commited - совершать;
++ investigated - расследовать;
++ questioned- допрашивать;
++ acquitted - оправдать, вынести оправдательный приговор;
++ court - суд;
++ evidence - свидетелство, доказательство, факты;
++ guilty - вина;
++ judge - судья;
++ jury - суд присяжных;
++ not guilty - невиновность;
++ proof - доказательство;
++ punishment - наказание;
++ sentenced - приговаривать, осуждать;
+verdict - приговор;
++ witnesses - свидетели;
+
+Ex. 1
+A - kidnapping;
+B - murder;
+C - hijacking;
+D - rape;
+E - burglary;
+F - drug dealing;
+G - smuggling;
+H - vandalism;
+I - blackmail;
+J - robbery; 
+K - fraud;
+L - bribery;
+M - terrorism;
+N - theft;
+O - mugging;
+
+Ex. 2
+2.	investigated;
+3.	caught;
+4.	arrested;
+5.	questioned;
+6.	charged;
+7.	court;
+8.	witnesses;
+9.	jury, evidence;
+10.	verdict;
+11.	guilty;
+12.	judge, punishment;
+13. sentenced;
+14.	not guilty;
+15.	proof;
+16.	acquitted;
+
+Ex. 3
+1.	burglar;
+2.	robber;
+3.	shoplifter (магазинный вор);
+4.	pickpocket (карманник);
+5.	mugger;
+6.	thief;
+
+LISTENING
+d.	
+1.	The real rick is to make people notice smth but not others. 
+2.	... because pickpockets know exactly what they gain to look at. Which is usually buildings or monuments.
+
+e.
+1.	to teach them to be pickpockets, to be able to be pickpocket self-fast and skillful.
+2.	come to Prague to meet Polanski.. ?
+3.	Polanski didn't give an interview. He just asked to steal his watch without noticing.
+4.	He started to feel like Fagen heself. Fagen was a character of Oliver Twist.
+5.	You have to direct people towards what you want them to see, and of course the way from what you don't want them to see.
+6.	He stole keys from jeans pocket while they were talking.
+7.	He stole journalist's wallet and pen too. He directed journalist attantion to his jeans and his pocket.
+8.	When someone ask you how he can get to smth and looks at his map, you can steal smth from backpocket.
+9.	When tourists come to Westminster tube station, they always look at Big Ben. And while they are looking you can steal smth from his pockets.
+10.	??
+
+Barcelona
+Madrid
+
+cameras
+
+AUR:
+#Gnome Theme GTK-3
+ceti-2-themes
+
+#Gnome Icons
+vibrancy-colors
+
+#Gnome Extensions
+Dash to Dock
+Alternatetab (is already installed);
+
+#Packages
+sublime-text-dev #AUR
+ttf-ubuntu-font-family
+ttf-droid (Droid Sans Regular 11 (x3), Monospace Regular 11)

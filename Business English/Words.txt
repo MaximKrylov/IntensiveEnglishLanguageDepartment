@@ -1,83 +1,46 @@
-value for money - соотношение цена \ качества
-durable - долговечный, прочный
-fashionable, trandy, chic - модный
-upmarket, expensive, costly, pricey - ориентированный на покупателя с высокими доходами, дорогой
-inexpensive, cheap, downmarket - ориентированный на покупателя с низкими доходами
-timeless, classic - неустаревающий
-cool, great, awesome, sick - классный
-sophisticated, cutting-edge, state-of-the-art - передовая технология
-well-made - качественный
-reliable, trustworthy - надежный
-fun - забавный, прикольный
+AIR TRAVEL
 
-brand image - 
-brand loyalty - верность бренду
-brand stretching - расширение бренда
-brand awareness - узнаваемость бренда
-brand name
+book a flight						забронировать рейс
+economy class						эконом-класс
+business / first class				бизнес-класс
+airport terminal					аэровокзал, здание аэропорта
+departures board					доска информации о вылете, табло вылетов
+flight number						номер рейса
+departure time						время вылета
+destination							пункт назначения
+check-in desk						стойка регистрации пассажиров
+weigh a luggage						взвесить багаж
+pay excess baggage					оплатить перевес багажа
+boarding card						посадочный талон
+seat number							номер сидения
+go through passport control			пройти проверку документов
+check a passport					проверить документы
+departure lounge					зал вылета, пассажирский зал
+duty free							не подлежащий обложению таможенной пошлиной
+take-off							вылет, взлетать
+gate								...
+board 								подняться на борт
+hand luggage						ручной багаж
+overhead locker						багажная полка
+delay								задержка
+runway								взлетная полоса
+cabin crew							экипаж
+fasten a seat-belt					пристегнуть ремень безопасности
+put a seat in the upright position	привести спинки кресел в вертикальное положение
+terminal building					часть аэропорта, куда прибывают и откуда отправляются пассажиры
+landing card						карточка с указанием порядка высадки пассажиров
+blind								иллюминатор
+gangway / central aisle				центральный проход
+life-jacket							спасательный жилет
+baggage compartment					багажное отделение
+air vent							вентиляционное отверстие
+window / aisle seat 				сидение у окна / прохода
+reclining seat 						сиденье с откидывающейся спинкой
+headset								наушники
+folding table						откидной столик
 
-product launch - запуск продукта
-product lifecycle - жизненный цикл продукта
-product range - ассортимент товаров
-produc placement - реклама товара в фильмах, передачах и т.д.
-product endorsement - для рекламы товара исп. известная личность
-
-market leader - лидер рынка
-market research - исследование рынка
-market share - доля рынка
-market challenger - второй конкурирующий товар
-market rival, competetor - конкурент
-market segment - сегмент рынка
-
-consumer - потребитель
-costomer - покупатель
-
-it's way bigger than - на порядок больше, чем
-to enable smb to do smth - позволять кому-то делать что-то
-to convey information - передать информацию
-perception - восприятие, ощущение, осознание.
-a raft of data/information/ - целый ряд данных/информрации.
-a master brand/key/class/switch/plan/etc. - головной бренд/универсальный ключ/мастер-класс/главный выключатель/клавный план.
-to choose smth over smth
-
-income braket - доход семьи
-priсe-conscious - обращают на что-то внимание
-reveal - открывать,показывать, делать что-то достоянием гласности
-i don't see any reasons
-prospective - потенциальный
-reckon = I think	
-company = firm = a business
-
-Homework: p. 13, photo
-labour - труд, работа
-high-volume - массовый
-Fair enough, ... - довольно справедливо
-I suppose you've got a point there - Что-то в этом есть...
-I take a slightly different view on this 
-
-I'm sorry, but that's out of the question - Об этом не может быть и речи
-That's ridiculous - Это смешно
-decide on .. !
-
-to put in the me-too category - поставить компанию в ту же самую категорю (эта компания будет как все)
-
-aspirational - вдохновляющий
-to commute / commuter - Балашиха - Москва
-
-room - место
-lost or delayed luggage
-long queues in chek-in
-baggage trolley - тележка для багажа
-overbooking of seats - больше билетов чем мест
-jet-lag - усталость после перелета
-
-divert - отклонять
-
-flight number - ручная кладь
-had luggage - ручная кладь
-run way - взлетная полоса
-terminal - 
-at the checking desk - 
-carousel - 
-fasten your seat belt - престегните ремни
-put your seat in the upright position - установите спинки кресел 
+About half an hour before...
+There is a two-hour delay on our flight.
+Why is the flight delayed?
+What is the reason for the delay?
+We were delayed at Athens airport.

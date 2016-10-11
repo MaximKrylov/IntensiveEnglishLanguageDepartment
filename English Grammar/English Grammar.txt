@@ -1,4 +1,3 @@
-Reported Speech
 The Rule of The Sequence of Tenses: If the predicate of the main sentence is IN THE PAST, the predicate of the subordinate sentence should be IN ONE OF THE PAST TENS FORMS.
 She says (Present Simple), "The weather is nice today." - She says that the weather is nice.
 She said (Past Simple), "The is nice today." - She said that the weather was nice today.

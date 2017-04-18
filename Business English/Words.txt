@@ -49,13 +49,13 @@ full board / half board 			завтрак обед ужин / завтрак и 
 to foresee							предугадывать
 to book in advanced
 to put one's watch back / forward	перевести часы назад / вперед
-to be ... hours behind / ahead of 	
+to be ... hours behind / ahead of
 to go to the baggage reclaim		подойти к выдаче багажа
 boarding pass 						посадочный талон
-peak travel 						
+peak travel
 Savvy								здравый смысл, смекалка
 Paramount							чрезвычайно важный
-To affect / to influence something 	
+To affect / to influence something
 to be over the allowance
 
 About half an hour before...
@@ -112,13 +112,13 @@ decentralize
 deregulate			отсутствие государственного регулирования в компании
 retrain				по-новой обучать (персонал)
 reassess			переоценка чего-либо
-redevelop		
-restructure
-relaunch
+redevelop			разрабатывать
+restructure         переделывать
+relaunch			перезапуск
 branch, affiliate	филиал
 subsidiary			дочерняя компания
 take-over			захват одной компанией другую
-merge
+merge				слияние двух компаний
 decade				10 years
 dramatic			внезапно и быстро
 trailblazer			новатор
@@ -126,3 +126,40 @@ rival				конкурент
 enviously			завистливо
 turn around			коренной переворот
 bottom line			итог
+
+ORGANISATION
+
+business card								визитная карточка
+subsidiary									дочерняя компания
+parent company								головная компания
+factory / plant								завод
+faulty product								бракованный товар
+headquarters, head-office					штаб-квартира
+distribution center							центр распределения товаров
+warehouse									склад
+outlet										точка розничной торговли (магазин)
+R&D (research and development)				научно-исследовательский отдел
+Customer Services							центр обслуживания клиентов
+Human Resources								отдел кадров
+Personnel Department (office)				отдел кадров
+staff, personnel, employees					сотрудники (персонал)
+Sales and Marketing							отдел продаж
+Production Department 						отдел производства
+Finance Department 							бухгалтерский отдел
+Administration Department 					руководство компании
+Legal Department 							юридический отдел
+Logistic Department 						отдел логистики
+Public Relations Department 				отдел по связям с общественностью
+draw up / draft / prepare contracts			составлять договоры
+impersonal									безличный (атмосфера, характерная для больших компаний)
+market-driven								ориентированная на рынок
+flat / steep hierarchical					иерархия, где все равны / иерархия в виде елочки
+title										должность
+company is headed by ...					компанию возглавляет ...
+to be accountable to 						отчитываться (бухгалтерский учет)
+to be in charge of 							отвечать за
+Chairperson									глава компании
+the board of directors / executive board 	совет директоров
+to deal with complaints						сталкиваться с трудностями
+to carry out / to conduct research			проводить исследование
+to train staff								тренировать персонал

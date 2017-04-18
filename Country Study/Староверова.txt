@@ -10,7 +10,7 @@ Scotland Edinburgco
 Scotland 5.2
 Nother Ireland Belfast 1.8
 England L 50 mln
-Wales Cardiff 3 
+Wales Cardiff 3
 
 British English
 
@@ -23,7 +23,6 @@ Nother Iles green
 Nothern Ireland
 
 Homework: Символы, флаги, цветы, распечатка, 8 - 14
-
 
 10 - fun
 11 - upmarket
